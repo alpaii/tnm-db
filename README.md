@@ -13,7 +13,7 @@ tnm/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/alpaii/tnm-db.git
 cd tnm-db
 ```
 
